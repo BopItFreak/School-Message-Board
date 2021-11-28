@@ -1,0 +1,21 @@
+{
+  "name": "school-message-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chromecast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "August Berchelmann",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "chromecast-api": "^0.3.4",
+    "edge-js": "^16.6.0",
+    "ftp": "^0.3.10",
+    "mkdirp": "^1.0.4",
+    "office-script": "file:node-office-script",
+    "pptxgenjs": "^3.7.1",
+    "qrcode": "^1.4.4"
+  }
+}
